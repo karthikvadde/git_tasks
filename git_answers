@@ -1,0 +1,12 @@
+1. PAT = personal access token=To access repositories via command line 
+2.CHERRY PICK picking a branch and applying to other i mean selected or paticular branch
+3. FETCH git fitch is a command that tells local git to retrive the latest changes in remote <just to notice changess it  doesn't do any file transferring.
+4. gitpull to fetch and download the content from a remote repository
+5.rebase nothing but rewrite commits from one branch onto another branch
+6.Fast forward = direct path from source branch to target branch
+7.stash nothing but uncommitted changes locally and allowing you to make changes switch branches and perform other git operations
+8. merge combines all the commits into one unified historyof commits
+9. To delete branch remotly and locally git push <remote-name> -- delete <branch-name>
+10. To rename the branch git branch -m <old_name> <newname>
+11. Gitpush target repository requesting you to push your changes
+
